@@ -17,7 +17,7 @@
             android:minWidth="0dp"
             android:minHeight="0dp"
             android:text=""
-            android:onClick="select"
+            android:onClick="select1"
             >
 
         </LinearLayout>
@@ -28,7 +28,7 @@
             android:minWidth="0dp"
             android:minHeight="0dp"
             android:text=""
-            android:onClick="select"
+            android:onClick="select2"
             >
 
         </LinearLayout>
@@ -39,7 +39,7 @@
             android:minWidth="0dp"
             android:minHeight="0dp"
             android:text=""
-            android:onClick="select"
+            android:onClick="select3"
             >
 
         </LinearLayout>

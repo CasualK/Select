@@ -17,10 +17,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void select(View v) {
+    public void select1(View v) {
         Intent intent = new Intent(MainActivity.this,select.class);
         startActivity(intent);
     }
+
 }
 
 
