@@ -10,105 +10,73 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         >
-        <LinearLayout
+
+        <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
-            android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
             android:text=""
-            android:onClick="select1"
-            >
-
-        </LinearLayout>
-        <LinearLayout
+            android:id="@+id/lip1"
+            android:background="@drawable/btn_bg"
+            />
+        <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
-            android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
             android:text=""
-            android:onClick="select2"
-            >
+            android:id="@+id/lip2"
+            android:background="@drawable/btn_bg"
 
-        </LinearLayout>
-        <LinearLayout
+            />
+        <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
-            android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
             android:text=""
-            android:onClick="select3"
-            >
-
-        </LinearLayout>
-        <LinearLayout
+            android:id="@+id/lip3"
+            android:background="@drawable/btn_bg"
+            />
+        <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
-            android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
             android:text=""
-            >
-
-        </LinearLayout>
-        <LinearLayout
+            android:id="@+id/lip4"
+            android:background="@drawable/btn_bg"
+            />
+        <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
-            android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
             android:text=""
-            >
-
-        </LinearLayout>
-        <LinearLayout
+            android:id="@+id/lip5"
+            android:background="@drawable/btn_bg"
+            />
+        <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
+            android:text=""
+            android:id="@+id/lip6"
             android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:text="">
-
-        </LinearLayout>
-
-        <LinearLayout
+            />
+        <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
+            android:text=""
+            android:id="@+id/lip7"
             android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:text="">
-
-        </LinearLayout>
-        <LinearLayout
+            />
+        <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
+            android:text=""
+            android:id="@+id/lip8"
             android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:text="">
-
-        </LinearLayout>
-        <LinearLayout
+            />
+        <Button
             android:layout_width="match_parent"
             android:layout_height="90dp"
+            android:text=""
+            android:id="@+id/lip9"
             android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:text="">
+            />
 
-        </LinearLayout>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="90dp"
-            android:background="@drawable/btn_bg"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:text="">
 
-        </LinearLayout>
 
 
 
