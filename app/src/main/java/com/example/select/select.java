@@ -21,6 +21,7 @@ public class select extends AppCompatActivity {
         int lip_no = intent.getIntExtra("LIPS_CODE",0);
 
         inform.setText(String.valueOf(lip_no));
+
     }
 
 }
