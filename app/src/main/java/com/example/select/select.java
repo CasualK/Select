@@ -20,7 +20,41 @@ public class select extends AppCompatActivity {
         Intent intent = getIntent();
         int lip_no = intent.getIntExtra("LIPS_CODE",0);
 
-        inform.setText(String.valueOf(lip_no));
+        switch (lip_no){
+            case 1:
+                inform.setText("1번립");
+                break;
+            case 2:
+                inform.setText("2번립");
+                break;
+            case 3:
+                inform.setText("3번립");
+                break;
+            case 4:
+                inform.setText("4번립");
+                break;
+            case 5:
+                inform.setText("5번립");
+                break;
+            case 6:
+                inform.setText("6번립");
+                break;
+            case 7:
+                inform.setText("7번립");
+                break;
+            case 8:
+                inform.setText("8번립");
+                break;
+            case 9:
+                inform.setText("9번립");
+                break;
+            default:
+                inform.setText("오류");
+
+
+
+
+        }
 
     }
 
